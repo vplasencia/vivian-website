@@ -14,7 +14,7 @@ html {
 }
 
 body {
-  font-family: 'DM Mono', monospace;
+  font-family: "Montserrat", sans-serif;
   @apply text-gray-700;
 }
 

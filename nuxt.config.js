@@ -97,7 +97,7 @@ export default {
     base64: true,
     overwriting: false,
     families: {
-      "DM Mono": [400, 500, 600, 700, 800, 900],
+      Montserrat: [400, 500, 600, 700, 800, 900],
     },
     useStylesheet: true,
   },
