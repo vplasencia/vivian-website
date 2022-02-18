@@ -4,7 +4,7 @@
       <img src="/logo.jpg" class="rounded-full" alt="Logo" width="160" />
     </div>
     <div class="flex place-content-center mt-10">
-      <p class="w-96">
+      <p class="w-96 text-center">
         Hi! I am <span class="font-semibold">Vivian Plasencia</span>. This site
         is under construction and will be ready soon.
       </p>
