@@ -5,8 +5,8 @@
     </div>
     <div class="flex place-content-center mt-10">
       <p class="w-96 text-center">
-        Hi! I am <span class="font-semibold">Vivian Plasencia</span>. This site
-        is under construction and will be ready soon.
+        Hi! I am <span class="font-semibold">Vivian Plasencia</span>. I am a
+        Computer Scientist curious about Web3. I like building stuff.
       </p>
     </div>
     <div>
