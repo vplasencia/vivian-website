@@ -20,7 +20,7 @@ export default {
       {
         hid: "twitter:url",
         name: "twitter:url",
-        content: "https://vivianplasencia.com/",
+        content: "https://<domain>/",
       },
       {
         hid: "twitter:title",
@@ -35,7 +35,7 @@ export default {
       {
         hid: "twitter:image",
         name: "twitter:image",
-        content: "https://vivianplasencia.com/socialMedia.jpg",
+        content: "https://<domain>/socialMedia.jpg",
       },
 
       // Open Graph
@@ -49,7 +49,7 @@ export default {
       {
         hid: "og:url",
         property: "og:url",
-        content: "https://vivianplasencia.com/",
+        content: "https://<domain>/",
       },
       {
         hid: "og:title",
@@ -64,12 +64,12 @@ export default {
       {
         hid: "og:image",
         property: "og:image",
-        content: "https://vivianplasencia.com/socialMedia.jpg",
+        content: "https://<domain>/socialMedia.jpg",
       },
       {
         hid: "og:image:secure_url",
         property: "og:image:secure_url",
-        content: "https://vivianplasencia.com/socialMedia.jpg",
+        content: "https://<domain>/socialMedia.jpg",
       },
       {
         hid: "og:image:alt",
@@ -112,11 +112,11 @@ export default {
   ],
 
   plausible: {
-    domain: "vivianplasencia.com",
+    domain: "<domain>",
   },
 
   sitemap: {
-    hostname: "https://vivianplasencia.com",
+    hostname: "https://<domain>",
     gzip: true,
     trailingSlash: true,
   },
